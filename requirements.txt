@@ -1,0 +1,4 @@
+pandas
+numpy
+opencv-python==3.4.1
+streamlit==1.10.0
