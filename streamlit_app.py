@@ -1,5 +1,5 @@
 import streamlit as st
-import opencv-python
+import cv2
 import base64
 from PIL import Image
 
